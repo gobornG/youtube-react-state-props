@@ -4,7 +4,7 @@ import Title from './Title';
 
 export default class Header extends React.Component {
     render() {
-        console.log(this.props);
+        //console.log(this.props);
         var text = "Some text variable";
         return (
             <div>
